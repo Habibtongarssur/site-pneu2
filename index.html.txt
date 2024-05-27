@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entreprise de Vente de Pneus et Réparation de Véhicules</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Entreprise de Vente de Pneus et Réparation de Véhicules</h1>
+        <nav>
+            <ul>
+                <li><a href="#accueil">Accueil</a></li>
+                <li><a href="#produits">Produits</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#apropos">À propos de nous</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="accueil">
+        <h2>Bienvenue chez notre entreprise</h2>
+        <p>Nous sommes spécialisés dans la vente de pneus des marques Habilead et Kapsen, ainsi que de filtres et batteries. Nous offrons également des services de réparation pour véhicules auto et motos à deux roues au Burkina Faso et bientôt en Côte d'Ivoire.</p>
+        <img src="images/accueil.jpg" alt="Image d'accueil">
+    </section>
+    
+    <section id="produits">
+        <h2>Nos Produits</h2>
+        
+        <div class="produit">
+            <h3>Pneus Habilead</h3>
+            <img src="images/pneus_habilead.jpg" alt="Pneus Habilead">
+            <p>Les pneus Habilead sont synonymes de qualité et de performance. Conçus pour offrir une excellente adhérence sur les routes sèches et mouillées, ils garantissent une conduite sécurisée et confortable. Leur durabilité exceptionnelle les rend idéaux pour les conducteurs soucieux de la longévité et de la fiabilité de leurs pneus.</p>
+        </div>
+        
+        <div class="produit">
+            <h3>Pneus Kapsen</h3>
+            <img src="images/pneus_kapsen.jpg" alt="Pneus Kapsen">
+            <p>Les pneus Kapsen sont conçus pour offrir une performance optimale dans toutes les conditions de conduite. Avec une technologie avancée et des matériaux de haute qualité, ces pneus garantissent une excellente stabilité, une consommation de carburant réduite et une durée de vie prolongée.</p>
+        </div>
+        
+        <div class="produit">
+            <h3>Batteries Longue Durée</h3>
+            <img src="images/batteries.jpg" alt="Batteries Longue Durée">
+            <p>Nos batteries longue durée sont idéales pour tous types de véhicules, offrant une puissance fiable et constante. Elles sont conçues pour résister aux conditions les plus exigeantes, assurant une performance optimale et une durée de vie étendue, ce qui en fait un excellent choix pour les conducteurs recherchant la tranquillité d'esprit.</p>
+        </div>
+        
+        <div class="produit">
+            <h3>Filtres de Qualité</h3>
+            <img src="images/filtres.jpg" alt="Filtres de Qualité">
+            <p>Nos filtres de qualité sont essentiels pour maintenir la performance de votre véhicule. Que ce soit pour l'huile, l'air ou le carburant, nos filtres sont conçus pour offrir une filtration supérieure, protégeant ainsi le moteur de votre véhicule et prolongeant sa durée de vie.</p>
+        </div>
+    </section>
+    
+    <section id="services">
+        <h2>Nos Services</h2>
+        <p>Nous proposons des services de réparation pour véhicules auto et motos à deux roues au Burkina Faso et bientôt en Côte d'Ivoire. Notre équipe de techniciens qualifiés utilise les dernières technologies pour diagnostiquer et réparer rapidement et efficacement tout type de problème mécanique.</p>
+        <img src="images/services.jpg" alt="Services de réparation">
+    </section>
+    
+    <section id="apropos">
+        <h2>À propos de nous</h2>
+        <p>Nous sommes une entreprise dédiée à fournir des produits de haute qualité et des services de réparation fiables pour nos clients. Basés au Burkina Faso, nous nous étendons bientôt en Côte d'Ivoire. Notre engagement envers la satisfaction du client et notre expertise technique nous distinguent de la concurrence.</p>
+        <img src="images/apropos.jpg" alt="À propos de nous">
+    </section>
+    
+    <section id="contact">
+        <h2>Contactez-nous</h2>
+        <p>Pour toute question ou demande de service, veuillez nous contacter via les informations ci-dessous. Nous serions ravis de vous aider à trouver les produits et services adaptés à vos besoins.</p>
+        <ul>
+            <li>Email: info@entreprise.com</li>
+            <li>Téléphone: +226 12 34 56 78</li>
+            <li>Adresse: Ouagadougou, Burkina Faso</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Entreprise de Vente de Pneus et Réparation de Véhicules. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>sssssss
